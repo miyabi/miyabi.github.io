@@ -5,8 +5,13 @@
         "appIDs": ["SCQWQB3MYR.jp.sanshi.storeapp.stg"],
         "components": [
           {
-            "/": "/*",
+            "/": "/deep-links/migrate-account",
+            "comment": "アカウント移行用"
           },
+          {
+            "/": "/deep-links/sign-up",
+            "comment": "新規登録用"
+          }
         ]
       }
     ]
