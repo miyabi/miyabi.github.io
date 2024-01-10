@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["SCQWQB3MYR.jp.sanshi.storeapp.stg"],
+        "components": [
+          {
+            "/": "/*",
+          },
+        ]
+      }
+    ]
+  }
+}
